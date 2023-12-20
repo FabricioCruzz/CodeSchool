@@ -15,7 +15,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="pt-br" className="h-screen">
+    <html lang="pt-br">
       <body className={openSans.className}>{children}</body>
     </html>
   )

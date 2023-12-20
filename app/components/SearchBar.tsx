@@ -1,4 +1,4 @@
-// "use-client"
+// "use client;"
 // import { useState } from "react";
 import Container from "./Container";
 import { CgSearch } from "@react-icons/all-files/cg/CgSearch";
