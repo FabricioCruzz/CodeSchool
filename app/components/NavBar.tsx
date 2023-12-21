@@ -5,7 +5,7 @@ import SearchBar from "./SearchBar";
 export default function NavBar(){
     const logo = "/images/logo.png"
     return (
-        <nav className="flex flex-row justify-between items-center bg-zinc-950 py-3">
+        <nav className="flex flex-row justify-between items-center bg-zinc-950 py-3 border-solid border-b-2 border-yellow-600">
             <Image
                 className="ml-5"
                 src={logo}
