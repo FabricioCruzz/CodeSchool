@@ -4,37 +4,37 @@
         {
             "id": 1,
             "courseName": "Java",
-            "image": "/images/java-logo.jpg",
+            "image": "/images/logo-java.svg",
             "description": "Comece hoje a aprender uma das linguagens mais usadas no mercado! \nNeste curso você aprenderá: Lógica de programação básica; Orientação a Objetos; Boas práticas de programação;"
         },
         {
             "id": 2,
             "courseName": "Python",
-            "image": "/images/python-logo.jpg",
+            "image": "/images/logo-python.svg",
             "description": "Aprenda a linguagem utilizada para Data Science, Machine Learning e muito mais! Neste curso você aprenderá: A conhecer a linguagem; Orientação a Objetos; Diversas funcionalidades para tratar as diversas coleções;"
         },
         {
             "id": 3,
             "courseName": "Javascript",
-            "image": "/images/js-logo.png",
+            "image": "/images/logo-javascript.svg",
             "description": "Mergulhe na linguagem mais utilizada na criação de sites e aprenda a criar sites mais dinâmicos e criativos! Neste curso você aprenderá: Programação Funcional; A manipular elementos da página para dar dinamismo ao seu site; Manipular JSONs;"
         },
         {
             "id": 4,
             "courseName": "C#",
-            "image": "/images/c-sharp-logo.jpg",
+            "image": "/images/logo-csharp.svg",
             "description": "Conheça e aprenda uma das linguagens mais antigas e ainda muito atual no mercado! Neste curso você aprenderá: Fundamentos da linguagem C; Orientação a Objetos em C; Utilizar o Visual Studio como IDE para linguagens C;"
         },
         {
             "id": 5,
             "courseName": "PHP",
-            "image": "/images/php-logo.jpg",
+            "image": "/images/logo-php.svg",
             "description": "Venha aprender uma das linguagens web voltadas para o desenvolvimento de sites e backend! Neste curso você aprenderá: Conceitos de PHP; Criar sua primeira página; Salvar os dados de um formulário usando GET e POST no PHP;"
         },
         {
             "id": 6,
             "courseName": "MySQL",
-            "image": "/images/mysql-logo.png",
+            "image": "/images/logo-mysql.svg",
             "description": "Aprenda a criar tabelas, realizar consultas e manipular dados no banco de dados com o SGDB da Oracle! Neste curso você aprenderá: Criação de tabelas; Comandos DDL e DML; A estruturar um modelo simples de banco de dados;"
         }
     ]
