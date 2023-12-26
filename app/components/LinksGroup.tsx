@@ -7,7 +7,7 @@ export default function LinksGroup(){
     const linkPlanosDeEstudos = "Planos de Estudos"
     const linkSobreNos = "Sobre Nós"
 
-    const colorLink = "p-2 text-yellow-600 text-lg font-medium hover:text-yellow-700"
+    const colorLink = "mx-3 p-2 text-yellow-600 text-lg font-medium hover:text-yellow-700"
 
     /* TODO:
         Colocar barra inferior no link que representa a página exibida. Obs.: Para mais detalhes

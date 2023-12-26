@@ -9,7 +9,7 @@ export default function HomePage(){
             <Container>
                 <Container classNames="flex flex-row gap-12 flex-wrap">
                     <Cards/>
-                    <button className="bg-yellow-600 font-bold text-3xl uppercase border border-gray-300 border-opacity-50 px-3 py-1 rounded-lg mx-auto my-4 w-4/12">Cadastrar</button>
+                    <button className="bg-yellow-500 font-bold text-3xl uppercase shadow-sm border-2 border-white border-opacity-40 px-3 py-1 rounded-lg mx-auto my-4 w-4/12 hover:bg-yellow-300 transition-colors duration-[600ms]">Cadastrar</button>
                 </Container>
             </Container>
         </main>
