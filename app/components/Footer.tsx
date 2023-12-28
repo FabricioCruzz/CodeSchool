@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Container from "./Container";
 import SocialMedia from "./SocialMedia";
+import Newsletter from "./Newsletter";
 
 export default function Footer(){
     
@@ -17,9 +18,8 @@ export default function Footer(){
                 height={120}
                 />
             </Container>
-        {/* Divisória + Links das Redes Sociais */}
         <SocialMedia/>
-        <span className="text-yellow-500">Novidades e Descontos</span>
+        <Newsletter/>
         {/* Input com Botão (Reutilizar componente de Search?)*/}
         </footer>
     )
