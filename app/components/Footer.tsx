@@ -20,7 +20,6 @@ export default function Footer(){
             </Container>
         <SocialMedia/>
         <Newsletter/>
-        {/* Input com Botão (Reutilizar componente de Search?)*/}
         </footer>
     )
 };

@@ -1,7 +1,7 @@
 // "use client;"
 // import { useState } from "react";
 import Container from "./Container";
-import { CgSearch } from "@react-icons/all-files/cg/CgSearch";
+import { CgSearch } from "react-icons/cg";
 
 export default function SearchBar(){
     // const [input, setInput] = useState("");
