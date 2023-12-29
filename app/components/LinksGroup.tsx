@@ -11,10 +11,10 @@ export default function LinksGroup(){
         <>
             <div>
                 <ActiveLink href={"/"}>{linkHome}</ActiveLink>
-                <ActiveLink href={"#"}>{linkCadastro}</ActiveLink>
-                <ActiveLink href={"#"}>{linkCursos}</ActiveLink>
-                <ActiveLink href={"#"}>{linkPlanosDeEstudos}</ActiveLink>
-                <ActiveLink href={"#"}>{linkSobreNos}</ActiveLink>
+                <ActiveLink href={"/cadastrar"}>{linkCadastro}</ActiveLink>
+                <ActiveLink href={"/cursos"}>{linkCursos}</ActiveLink>
+                <ActiveLink href={"/planos-estudos"}>{linkPlanosDeEstudos}</ActiveLink>
+                <ActiveLink href={"/sobre"}>{linkSobreNos}</ActiveLink>
             </div>
         </>
     )

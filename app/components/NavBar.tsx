@@ -7,7 +7,7 @@ export default function NavBar(){
     const logo = "/images/code-school-logo.svg"
     return (
         <nav className="flex flex-row justify-between items-center bg-zinc-950 py-2 border-solid border-b-2 border-yellow-600">
-            <Link href={"#"}>
+            <Link href={"/home"}>
                 <Image
                     className="ml-5 mr-5 px-2"
                     src={logo}

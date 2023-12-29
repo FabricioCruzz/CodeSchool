@@ -8,7 +8,7 @@ export default function Footer(){
     const footerLogo = "/images/code-school-footer.svg"
     
     return (
-        <footer className="flex flex-row items-center justify-evenly h-80 bg-black">
+        <footer className="flex flex-row items-center justify-evenly w-full h-80 bg-black">
             <Container>
                 <Image
                 className="border-r-2 pr-4 border-yellow-500"
